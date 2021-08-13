@@ -1,2 +1,2 @@
 # ComputerGraphics
-Exercises for laboratory classes using Three.js - Computer Graphics (2020)
+Ćwiczenia laboratoryjne, w których wykorzystana jest biblioteka JavaScript - Three.js.
