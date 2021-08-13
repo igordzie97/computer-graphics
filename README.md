@@ -1,2 +1,2 @@
 # ComputerGraphics
-Exercises for laboratory classes: Computer Graphics (2020)
+Exercises for laboratory classes using Three.js - Computer Graphics (2020)
