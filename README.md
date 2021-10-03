@@ -1,2 +1,2 @@
-# ComputerGraphics
-Ćwiczenia laboratoryjne, w których wykorzystana jest biblioteka JavaScript - Three.js.
+# Computer Graphics
+Laboratory exercises where I used JavaScript library - Three.js.
