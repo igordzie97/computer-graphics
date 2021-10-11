@@ -1,2 +1,2 @@
 # Computer Graphics
-Laboratory exercises where I used the JavaScript library - Three.js.
+Laboratory exercises where I've used the JavaScript library - Three.js.
